@@ -1,6 +1,641 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel>
-<title>Filtered Travel Deals</title>
-<link>https://example.com/</link>
-<description>Will be populated by GitHub Actions.</description>
-</channel></rss>
+<rss version="2.0">
+  <channel>
+    <title>Filtered Travel Deals — Amsterdam, Rotterdam, Error Fare</title>
+    <link>https://example.com/</link>
+    <description>Travel deals containing Amsterdam, Rotterdam or error fare.</description>
+    <lastBuildDate>Mon, 17 Aug 2026 10:01:56 +0000</lastBuildDate>
+    <item>
+      <title>Vanaf 27 oktober nieuwe route easyJet vanaf Schiphol naar het paradijs voor onder de €200 🌴</title>
+      <link>https://www.vakantiepiraten.nl/vluchten/goedkope-vluchten-sal-kaapverdie-easyjet-schiphol</link>
+      <guid isPermaLink="true">https://www.vakantiepiraten.nl/vluchten/goedkope-vluchten-sal-kaapverdie-easyjet-schiphol</guid>
+      <pubDate>Mon, 17 Aug 2026 09:00:00 +0000</pubDate>
+      <description>Ahoy Piraat!Dacht je dat je voor een azuurblauwe oceaan, een constante 25 graden en échte tropische sferen 12 uur in het vliegtuig moest zitten? Think again! EasyJet heeft zojuist een splinternieuwe route aangekondigd direct vanaf Amsterdam Schiphol, en het is dé bestemming waar iedereen het over gaat hebben.Vanaf het komende winterseizoen vliegt de bekende oranje prijsvechter rechtstreeks naar Sal (Kaapverdië). En het beste nieuws? Je scoort je tickets al voor prijzen die je normaal gesproken alleen voor een weekendje Londen betaalt. Vanaf 27 oktober is het zo ver!Je hebt al een retourvlucht vanaf Amsterdam voor minder dan €200! Check hieronder alle mogelijke vertrekdata voor een sensationele prijs!!</description>
+      <category>VakantiePiraten</category>
+    </item>
+    <item>
+      <title>Etihad Airways flights from Amsterdam to South Africa for €528</title>
+      <link>https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-amsterdam-to-south-africa/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-amsterdam-to-south-africa/</guid>
+      <pubDate>Sun, 16 Aug 2026 19:00:52 +0000</pubDate>
+      <description>Etihad Airways are offering discounted flights from the Netherlands to Johannesburg for only €528 for a round trip.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>All-inclusive naar paradijselijk Dominicaanse Republiek 🤩</title>
+      <link>https://www.vakantiepiraten.nl/vakanties/dominicaanse-republiek-voor-een-bodemprijs</link>
+      <guid isPermaLink="true">https://www.vakantiepiraten.nl/vakanties/dominicaanse-republiek-voor-een-bodemprijs</guid>
+      <pubDate>Sun, 16 Aug 2026 18:00:00 +0000</pubDate>
+      <description>Ahoy Piraat!Met deze bizar goedkope aanbieding boek jij een 9-daagse all inclusive naar de Dominicaanse Republiek voor maar €851 per persoon. Dat is inclusief vluchten vanaf Amsterdam Schiphol, verblijf in een 4*-resort aan het strand en all inclusive verzorging!🇩🇴 Droom jij van een parelwit bountystrand, wuivende palmbomen en een azuurblauwe zee? Dan is het 4-sterren VIK Hotel Arena Blanca in Punta Cana jouw ticket to paradise! Dit fijne resort ligt direct aan het spierwitte strand van Bávaro. Het leukste? Vanuit de tropische tuin wandel je zó het zand op! Plof neer op een van de klaarliggende ligbedden onder een palmboom, neem een duik in het heldere water of zoek een plekje aan het heerlijke zwembad. Hier staat maar één ding centraal: écht even helemaal ontspannen onder de Caribische zon!🍹 Met uitstekende faciliteiten binnen handbereik ontbreekt het je aan werkelijk niets. Trek gekregen? In de fantastische restaurants schuif je aan voor een heerlijke maaltijd en bij de bar bestel je zo een tropische cocktail. Voor de ultieme verwennerij duik je het fijne wellnesscentrum in, terwijl actievelingen zich uitleven dankzij de vele sportfaciliteiten. En vergeet natuurlijk niet te waterpret op te zoeken, want met twee enorme buitenbaden is dit een echt walhalla voor waterliefhebbers. Zelfs voor een leuk souvenir of een snelle boodschap hoef je het terrein niet af!🌴 Wil je ook nog wat van de adembenemende Dominicaanse Republiek zien? Punta Cana is de perfecte uitvalsbasis voor onvergetelijke dagtrips! Stap op de boot naar het idyllische eiland Saona, waar de stranden écht lijken alsof ze uit een ansichtkaart komen. O snuif wat cultuur op in de bruisende, historische hoofdstad Santo Domingo. Na een dag vol Caribische avonturen keer je terug naar het resort, waar je op het zonneterras nageniet met het ruisen van de zee op de achtergrond. Zulke prijzen zien we niet vaak. Wees er snel bij en boek jouw vakantie naar het paradijs! Pak die koffers maar vast! ✈️☀️Wil jij nog meer deals zien? om sneller op de hoogte te zijn van de beste deals!</description>
+      <category>VakantiePiraten</category>
+    </item>
+    <item>
+      <title>Ultra voordelig Thailand</title>
+      <link>https://www.vakantiepiraten.nl/vakanties/ultra-voordelig-thailand</link>
+      <guid isPermaLink="true">https://www.vakantiepiraten.nl/vakanties/ultra-voordelig-thailand</guid>
+      <pubDate>Sun, 16 Aug 2026 16:00:00 +0000</pubDate>
+      <description>Ahoy Piraat!Met deze deal van eSky.nl kan jij in september mega cheap op vakantie naar Thailand!Voor deze 13-daagse vakantie betaal je nu slechts €799 per persoon 😱 Koopje, toch?!Je verblijft tijdens je vakantie in het goed beoordeelde The Thames Pool Access Resort SHA+ (4,4/5) met fijn buitenzwembad, fitnessruimte en meer. Verder zijn de vluchten vanaf Amsterdam ook bij de prijs inbegrepen.Volg je ons al op Instagram? nu!</description>
+      <category>VakantiePiraten</category>
+    </item>
+    <item>
+      <title>Avontuurlijke rondreis naar de Lofoten 🇳🇴</title>
+      <link>https://www.vakantiepiraten.nl/vakanties/avontuurlijke-rondreis-naar-noorwegen-en-de-lofoten</link>
+      <guid isPermaLink="true">https://www.vakantiepiraten.nl/vakanties/avontuurlijke-rondreis-naar-noorwegen-en-de-lofoten</guid>
+      <pubDate>Sun, 16 Aug 2026 09:00:00 +0000</pubDate>
+      <description>Ahoy Piraat!Een keer in je leven moet je naar de magische Lofoten reizen. En met deze deal van journaway kan je deze prachtige plek in het noorden van Noorwegen ontdekken. Tijdens deze 7-daagse roadtrip rij je langs prachtige fjorden met metershoge kliffen, typisch Scandinavische dorpjes tot je uiteindelijk het uiterste punt van Noorwegen bereikt. Laat je charmeren door de rode vissershuisjes op palen die tegen elke denkbare rots leunen terwijl het noorderlicht danst in de lucht.Deze reis boek je nu voor slechts €1199 p.p. Wat extra voordelig is en voor deze prijs zijn je vluchten vanaf Amsterdam, huurauto met all-risk verzekering, overnachting in een traditioneel steltenhuis, een Rorbu-hut, inbegrepen.Bekijk de details hieronder en boek deze rondreis naar Noorwegen! Volg je ons al op Instagram? nu!</description>
+      <category>VakantiePiraten</category>
+    </item>
+    <item>
+      <title>💙 Op deze all-inclusive Van der Valk Plaza op Bonaire krijg jij nu €600 korting 💸</title>
+      <link>https://www.vakantiepiraten.nl/vakanties/van-der-valk-plaza-island-residence-bonaire</link>
+      <guid isPermaLink="true">https://www.vakantiepiraten.nl/vakanties/van-der-valk-plaza-island-residence-bonaire</guid>
+      <pubDate>Sat, 15 Aug 2026 18:30:00 +0000</pubDate>
+      <description>Ahoy Piraat!Bonaire is een stukje Nederlandse paradijs waar je ook nog eens ontzettend goedkoop naartoe kunt via Corendon. Hier vind je niet alleen budgetvakanties, maar zelfs het luxe Van der Valk wist een plekje op Bonaire te bemachtigen. Je vindt hier de luxe wat je Van der Valk gewend bent, maar dan tussen de palmbomen.Je vliegt dan met Corendon Airlines vanaf Amsterdam. Je verblijft hier op basis van all-inclusive. Dit resort is gespecialiseerd voor duikers, maar ook zonaanbidders weten dit prachtige resort inmiddels te vinden. Je beleeft een weergaloze Van der Valk-paradijselijke vakantie met een flinke korting van maar liefst €600 op je boeking!</description>
+      <category>VakantiePiraten</category>
+    </item>
+    <item>
+      <title>Herfstvakantie 🍁 Goedkoop genieten in Dubrovnik</title>
+      <link>https://www.vakantiepiraten.nl/vakanties/vroegboeker-stedentrip-dubrovnik</link>
+      <guid isPermaLink="true">https://www.vakantiepiraten.nl/vakanties/vroegboeker-stedentrip-dubrovnik</guid>
+      <pubDate>Sat, 15 Aug 2026 16:30:00 +0000</pubDate>
+      <description>Ahoy Piraat!Genieten in Dubrovnik in de herfstvakantie 2026 kan al voor slechts €189 per persoon! Dat is bijzonder goedkoop, want je verblijft in een geweldige accommodatie! Vluchten kan je gemakkelijk vanaf Amsterdam of Rotterdam bijboeken.Dubrovnik is natuurlijk de allerbekendste GOT-filmlocatie voor King&#x27;s Landing in Kroatië! In heel veel scenes komen de beroemde kasteelmuren in beeld! Breng een bezoekje aan de Red Keep (Fort Lovrijenac) en treed in de voetsporen van Cersei op de Jesuit-trappen, waar ze te zien was met haar beruchte &quot;Walk of Shame&quot;. Ook de &quot;House of the Undying&quot;, beter bekend als de Minčeta toren, is te vinden in Dubrovnik.</description>
+      <category>VakantiePiraten</category>
+    </item>
+    <item>
+      <title>Tropisch genieten op Curaçao voor een bodemprijs 🌺</title>
+      <link>https://www.vakantiepiraten.nl/vakanties/tropisch-genieten-op-curacao-voor-een-bodemprijs</link>
+      <guid isPermaLink="true">https://www.vakantiepiraten.nl/vakanties/tropisch-genieten-op-curacao-voor-een-bodemprijs</guid>
+      <pubDate>Sat, 15 Aug 2026 15:00:00 +0000</pubDate>
+      <description>Ahoy Piraat!Droom jij al van spierwitte stranden, azuurblauw water en een ijskoude cocktail in je hand? Dan hebben we weer een heerlijke Caribische deal voor je gespot bij D-reizen! In september vlieg je voor een 9-daagse zonvakantie naar het kleurrijke Curaçao. Je verblijft in het sfeervolle en gastvrije Resort Curinjo, gelegen in de bruisende hoofdstad Willemstad. Dit fijne 3*-resort met geweldige beoordelingen (8.2/10) staat bekend om zijn ontspannen sfeer, vriendelijke service en uitstekende centrale ligging op het eiland.Tijdens je verblijf ontbreekt het je aan niets. Resort Curinjo beschikt over twee heerlijke buitenzwembaden omringd door een tropische tuin en een zonneterras met ligbedden, waar je optimaal kunt ontspannen met een goed boek. De appartementen en studio&#x27;s zijn comfortabel ingericht en voorzien van airconditioning, gratis wifi en een eigen kitchenette of keuken. Zo kun je zelf een ontbijtje maken op je eigen terras of balkon voordat je het eiland gaat verkennen.De locatie van het resort is een perfecte uitvalsbasis voor jouw Caribische avontuur. Binnen een paar minuten rijden sta je al op het beroemde Mambo Beach of wandel je over de iconische Koningin Emmabrug in het historische centrum van Willemstad. Ook een supermarkt en gezellige lokale eetgelegenheden vind je op korte afstand. Of je nu wilt snorkelen tussen de zeeschildpadden, wil loungen op de mooiste baaitjes zoals Playa Kenepa Grandi, of &#x27;s avonds de Caribische nacht en livemuziek wilt ontdekken... op Curaçao kan het allemaal 😎Deze complete vakantie van D-Reizen is inclusief de vluchten vanaf Amsterdam en je verblijf bij Resort Curinjo voor €779 p.p. Pak je koffers, zet je zonnebril op en bereid je voor op 9 dagen pure ontspanning onder de Caribische zon ☀️</description>
+      <category>VakantiePiraten</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Ho Chi Minh City for €550</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-ho-chi-minh-city</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-ho-chi-minh-city</guid>
+      <pubDate>Wed, 12 Aug 2026 19:24:26 +0000</pubDate>
+      <description>Fly from Amsterdam to Ho Chi Minh City for €550 (roundtrip with China Southern in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Hanoi for €553</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-hanoi</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-hanoi</guid>
+      <pubDate>Wed, 12 Aug 2026 19:23:50 +0000</pubDate>
+      <description>Fly from Amsterdam to Hanoi for €553 (roundtrip with China Southern in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Hong Kong for €591</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-hong-kong</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-hong-kong</guid>
+      <pubDate>Wed, 12 Aug 2026 19:22:51 +0000</pubDate>
+      <description>Fly from Amsterdam to Hong Kong for €591 (roundtrip with China Southern in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Shanghai for €519</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-shanghai</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-shanghai</guid>
+      <pubDate>Wed, 12 Aug 2026 19:22:03 +0000</pubDate>
+      <description>Fly from Amsterdam to Shanghai for €519 (roundtrip with China Southern in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Bangkok for €495</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-bangkok</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-bangkok</guid>
+      <pubDate>Wed, 12 Aug 2026 19:14:41 +0000</pubDate>
+      <description>Fly from Amsterdam to Bangkok for €495 (roundtrip with Oman Air in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Phnom Penh for €557</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-phnom-penh</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-phnom-penh</guid>
+      <pubDate>Wed, 12 Aug 2026 19:11:41 +0000</pubDate>
+      <description>Fly from Amsterdam to Phnom Penh for €557 (roundtrip with XiamenAir in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>CHEAP 🤩 Non-stop flights from Madrid &amp; Amsterdam to Nova Scotia, Canada from €275</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-madrid-amsterdam-to-nova-scotia/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-madrid-amsterdam-to-nova-scotia/</guid>
+      <pubDate>Tue, 11 Aug 2026 14:33:14 +0000</pubDate>
+      <description>Experience one of Canada’s most breathtaking provinces with discounted Westjet flights to Halifax starting at just €275 for a round trip! Nova Scotia is a wonderland for nature lovers, adventurers, and foodies.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Cheap full-service flights from Amsterdam, Paris &amp; Vienna to the Philippines from €480 or €533 over High Season 🌴 🥥</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-vienna-to-the-philippines/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-vienna-to-the-philippines/</guid>
+      <pubDate>Tue, 11 Aug 2026 08:00:58 +0000</pubDate>
+      <description>Dreaming of tropical beaches, stunning islands, and unforgettable adventures? Plan your winter adventure with comfortable, full-service Saudia flights to Manila!</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>PRICE DROP 💥 Cheap full-service flights from Amsterdam to Malaysia for €463</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-kuala-lumpur-e463/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-kuala-lumpur-e463/</guid>
+      <pubDate>Sun, 09 Aug 2026 18:00:37 +0000</pubDate>
+      <description>Experience the convenience of Saudia flights to Malaysia from just €463 for a round trip. Whether it&#x27;s the enchanting local culture, tropical adventures, or fabulous cuisine you crave, Malaysia offers it all in a unique and unforgettable way.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>PRICE DROP 💥 Cheap non-stop flights from Amsterdam to Toronto, Canada for €342</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-toronto-e342/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-toronto-e342/</guid>
+      <pubDate>Sun, 09 Aug 2026 10:00:45 +0000</pubDate>
+      <description>Craving maple syrup, majestic skylines, and a taste of Canadian charm? Now’s your chance! Snag cheap Air Transat flights for only €342 for a round trip.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Direct flights from Amsterdam to exotic Zanzibar 🏝️ for €561</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-zanzibar-e561/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-zanzibar-e561/</guid>
+      <pubDate>Thu, 06 Aug 2026 19:00:26 +0000</pubDate>
+      <description>Escape to paradise: sun, sand, and adventure await — book your island getaway now! TUI is offering discounted direct flights from Amsterdam to exotic Zanzibar starting at only €561 for a round trip.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Non-stop flights from Amsterdam to Cancun, Mexico 🌮 for €577</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-cancun-e577/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-cancun-e577/</guid>
+      <pubDate>Wed, 05 Aug 2026 08:00:25 +0000</pubDate>
+      <description>Take advantage of these discounted fares and explore the Mexican Riviera! TUI is offering direct flights from Amsterdam to Cancun starting at only €577 for a round trip.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>PRICE DROP 🤩 Cheap flights from Amsterdam to Jamaica 🏝️ for €479</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-jamaica-e479/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-jamaica-e479/</guid>
+      <pubDate>Tue, 04 Aug 2026 06:00:24 +0000</pubDate>
+      <description>Craving proper Caribbean holiday? 🌴 This Jamaica deal makes it surprisingly easy: fly direct from Amsterdam to Montego Bay from just €479 return and swap Europe for turquoise water, reggae bars, tropical waterfalls, and that unmistakable laid-back island rhythm.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Full-service flights from Amsterdam to Bali, Indonesia for €593</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-bali-e593-2/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-bali-e593-2/</guid>
+      <pubDate>Mon, 03 Aug 2026 16:00:23 +0000</pubDate>
+      <description>Dreaming of a tropical escape? This excellent deal with Xiamen Air lets you fly to Denpasar from €593 return — an unbeatable price for such a long-haul adventure!</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>PRICE DROP 💥 Cheap direct flights from Amsterdam to the island of Sal, Cape Verde 🏝️ for €179</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-cape-verde-e179/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-cape-verde-e179/</guid>
+      <pubDate>Sun, 02 Aug 2026 10:00:01 +0000</pubDate>
+      <description>Sun, sea, and adventure await — don’t miss this excellent deal! Easyjet is offering discounted flights to the island of Sal starting at only €179 for a round trip.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>PRICE DROP 💥 Cheap full-service flights from Amsterdam to the Philippines for €456</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-the-philippines-e456/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-the-philippines-e456/</guid>
+      <pubDate>Sat, 01 Aug 2026 17:00:05 +0000</pubDate>
+      <description>Dreaming of tropical beaches, island hopping, and unforgettable sunsets? This Saudia deal makes it possible with full-service flights to Manila starting from just €456 return. It’s an excellent opportunity for travelers looking to explore two of Southeast Asia’s most breathtaking destinations during one of the best times of the year.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>PRICE DROP 💥 Cheap full-service flights from Amsterdam to Malaysia for €499</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-kuala-lumpur-e499/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-kuala-lumpur-e499/</guid>
+      <pubDate>Fri, 31 Jul 2026 15:00:11 +0000</pubDate>
+      <description>Experience the convenience of Saudia flights to Malaysia from just €499 for a round trip. Whether it&#x27;s the enchanting local culture, tropical adventures, or fabulous cuisine you crave, Malaysia offers it all in a unique and unforgettable way.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Cheap direct flights from Amsterdam to Aruba, Bonaire &amp; Curaçao 🦩 from €515</title>
+      <link>https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-aruba-bonaire-curacao-e515/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-aruba-bonaire-curacao-e515/</guid>
+      <pubDate>Wed, 29 Jul 2026 12:00:04 +0000</pubDate>
+      <description>Escape the ordinary and discover the Dutch Caribbean with cheap TUI and Corendon flights to Aruba, Bonaire and Curaçao from just €515 return. Whether you dream of relaxing on powdery white beaches, snorkeling in crystal-clear waters, or exploring colorful colonial towns, these three paradise islands offer unforgettable experiences all year round.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>💃🏖️ Full-service Delta flights from Amsterdam to Rio de Janeiro from €692</title>
+      <link>https://www.fly4free.com/flight-deals/europe/cheap-flights-from-amsterdam-to-rio-de-janeiro/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/cheap-flights-from-amsterdam-to-rio-de-janeiro/</guid>
+      <pubDate>Fri, 24 Jul 2026 11:00:19 +0000</pubDate>
+      <description>Delta is showing flights to Rio de Janeiro from €692 return, and the fare already includes two checked bags — a very nice bonus for a long-haul trip to one of the world’s most iconic cities.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Non-stop flights from Amsterdam to Madeira for €109</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-madeira-e109-2/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-madeira-e109-2/</guid>
+      <pubDate>Fri, 24 Jul 2026 06:08:32 +0000</pubDate>
+      <description>Check out this excellent deal and fly away to scenic Madeira! Book Easyjet flights from Amsterdam to Funchal starting at only €109 for a round trip!</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>🇨🇼🇧🇶 Curaçao + Bonaire: two Dutch Caribbean islands in one easy tropical trip from Amsterdam for €659</title>
+      <link>https://www.fly4free.com/flight-deals/europe/amsterdam-curacao-bonaire-e659/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/amsterdam-curacao-bonaire-e659/</guid>
+      <pubDate>Thu, 23 Jul 2026 14:30:17 +0000</pubDate>
+      <description>This itinerary combines two of the most beautiful islands in the Dutch Caribbean in one very smooth route. You fly non-stop from Amsterdam to Curaçao, spend more than a week exploring colourful colonial streets, turquoise coves and scenic beaches, then continue to Bonaire for a quieter, nature-focused island finale.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Flights from Rotterdam to Barcelona for €105</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-rotterdam-naar-barcelona</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-rotterdam-naar-barcelona</guid>
+      <pubDate>Wed, 22 Jul 2026 13:43:00 +0000</pubDate>
+      <description>Fly from Rotterdam to Barcelona for €105 (roundtrip with Transavia in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Manila for €459</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-manila</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-manila</guid>
+      <pubDate>Wed, 22 Jul 2026 13:17:00 +0000</pubDate>
+      <description>Fly from Amsterdam to Manila for €459 (roundtrip with Saudia in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Nairobi for €487</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-nairobi</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-nairobi</guid>
+      <pubDate>Wed, 22 Jul 2026 13:15:00 +0000</pubDate>
+      <description>Fly from Amsterdam to Nairobi for €487 (roundtrip with Etihad in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Tenerife for €113</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-tenerife</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-tenerife</guid>
+      <pubDate>Wed, 22 Jul 2026 10:58:00 +0000</pubDate>
+      <description>Fly from Amsterdam to Tenerife for €113 (roundtrip with easyJet in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Ibiza for €93</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-ibiza</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-ibiza</guid>
+      <pubDate>Wed, 22 Jul 2026 10:35:00 +0000</pubDate>
+      <description>Fly from Amsterdam to Ibiza for €93 (roundtrip with easyJet in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Istanbul for €159</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-istanbul</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-istanbul</guid>
+      <pubDate>Tue, 21 Jul 2026 18:52:26 +0000</pubDate>
+      <description>Fly from Amsterdam to Istanbul for €159 (roundtrip with Pegasus in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Holiday in exotic Curaçao 🐠 for €839 p.p: direct flights from Amsterdam + 7-night stay in well-rated bungalow</title>
+      <link>https://www.fly4free.com/flight-deals/europe/holiday-in-curacao-from-amsterdam-17-2/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/holiday-in-curacao-from-amsterdam-17-2/</guid>
+      <pubDate>Tue, 21 Jul 2026 07:30:14 +0000</pubDate>
+      <description>Escape to the Caribbean booking with this package deal that includes non-stop TUI flights from Amsterdam and a 7-night stay at well-rated bungalow for €839 per person (based on 2 people sharing).</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Cheap full-service flights from Amsterdam to Shanghai, China for €497</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-shanghai-e497/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-shanghai-e497/</guid>
+      <pubDate>Mon, 20 Jul 2026 06:00:35 +0000</pubDate>
+      <description>Finnair and Juneyao Airlines are offering discounted fares from the Netherlands to Shanghai! Tickets available from €497 for a round trip.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Tropical escape to Jamaica 🏝️ Flights from Amsterdam to Montego Bay for €521</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-jamaica-e521/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-jamaica-e521/</guid>
+      <pubDate>Sat, 18 Jul 2026 09:00:34 +0000</pubDate>
+      <description>Craving proper Caribbean holiday? 🌴 This Jamaica deal makes it surprisingly easy: fly direct from Amsterdam to Montego Bay from just €521 return and swap Europe for turquoise water, reggae bars, tropical waterfalls, and that unmistakable laid-back island rhythm.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>PRICE DROP 💥 Full-service flights from Amsterdam to Kenya 🐆 for €439</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-kenya-e439/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-kenya-e439/</guid>
+      <pubDate>Fri, 17 Jul 2026 18:10:27 +0000</pubDate>
+      <description>Ready for your next great adventure? Fly to Nairobi with Saudia starting at just €459 return! Discover the heart of East Africa — from breathtaking safaris in the Maasai Mara to white-sand beaches along the Indian Ocean.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Singapore Airlines flights from Amsterdam to Vietnam for €562</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-ho-chi-minh/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-ho-chi-minh/</guid>
+      <pubDate>Thu, 16 Jul 2026 09:07:46 +0000</pubDate>
+      <description>Ready for your Vietnam adventure? Singapore Airlines are offering full-service flights to Ho Chi Minh starting at just €562 for a round trip!</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Yerevan for €192</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-yerevan</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-yerevan</guid>
+      <pubDate>Tue, 14 Jul 2026 15:24:31 +0000</pubDate>
+      <description>Fly from Amsterdam to Yerevan for €192 (roundtrip with FLYONE in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Malta for €96</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-malta</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-malta</guid>
+      <pubDate>Tue, 14 Jul 2026 15:21:04 +0000</pubDate>
+      <description>Fly from Amsterdam to Malta for €96 (roundtrip with easyJet in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Milaan for €95</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-milaan</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-milaan</guid>
+      <pubDate>Tue, 14 Jul 2026 15:19:05 +0000</pubDate>
+      <description>Fly from Amsterdam to Milaan for €95 (roundtrip with easyJet in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Venetië for €105</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-venitie</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-venitie</guid>
+      <pubDate>Tue, 14 Jul 2026 15:18:05 +0000</pubDate>
+      <description>Fly from Amsterdam to Venetië for €105 (roundtrip with easyJet in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Sevilla for €95</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-sevilla</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-sevilla</guid>
+      <pubDate>Tue, 14 Jul 2026 15:16:47 +0000</pubDate>
+      <description>Fly from Amsterdam to Sevilla for €95 (roundtrip with easyJet in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Valencia for €91</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-valencia</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-valencia</guid>
+      <pubDate>Tue, 14 Jul 2026 15:15:06 +0000</pubDate>
+      <description>Fly from Amsterdam to Valencia for €91 (roundtrip with easyJet in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Johannesburg for €589</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-johannesburg</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-johannesburg</guid>
+      <pubDate>Tue, 14 Jul 2026 15:13:42 +0000</pubDate>
+      <description>Fly from Amsterdam to Johannesburg for €589 (roundtrip with Kenya Airways in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Lagos for €517</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-lagos</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-lagos</guid>
+      <pubDate>Tue, 14 Jul 2026 15:12:31 +0000</pubDate>
+      <description>Fly from Amsterdam to Lagos for €517 (roundtrip with Royal Air Maroc in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Cheap direct flights from Amsterdam to Aruba, Bonaire &amp; Curaçao 🦩 from €537</title>
+      <link>https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-aruba-bonaire-curacao/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-aruba-bonaire-curacao/</guid>
+      <pubDate>Tue, 14 Jul 2026 06:16:16 +0000</pubDate>
+      <description>Escape the ordinary and discover the Dutch Caribbean with cheap TUI and Corendon flights to Aruba, Bonaire and Curaçao from just €537 return. Whether you dream of relaxing on powdery white beaches, snorkeling in crystal-clear waters, or exploring colorful colonial towns, these three paradise islands offer unforgettable experiences all year round.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Full-service flights from Amsterdam to Kenya 🐆 for €459</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-kenya-e459-2/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-kenya-e459-2/</guid>
+      <pubDate>Mon, 13 Jul 2026 07:00:06 +0000</pubDate>
+      <description>Ready for your next great adventure? Fly to Nairobi with Saudia starting at just €459 return! Discover the heart of East Africa — from breathtaking safaris in the Maasai Mara to white-sand beaches along the Indian Ocean.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>HIGH SEASON 2027 🌴 🥥 Full-service flights from Amsterdam to Bali, Indonesia for €569</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-bali-e569/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-bali-e569/</guid>
+      <pubDate>Sat, 11 Jul 2026 19:00:05 +0000</pubDate>
+      <description>Dreaming of a tropical escape? This excellent deal with Xiamen Air lets you fly to Denpasar from €569 return — an unbeatable price for such a long-haul adventure!</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>All Inclusive holiday in Sharm El Sheikh for €396 p.p. 🌊 🐠 Direct flights from Amsterdam + 7-night stay at 4* resort</title>
+      <link>https://www.fly4free.com/flight-deals/europe/holiday-in-egypt-from-amsterdam/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/holiday-in-egypt-from-amsterdam/</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:14 +0000</pubDate>
+      <description>Take advantage of this super cheap package deal and spend 7 nights on the Red Sea Coast! Book discounted Easyjet flights from Amsterdam and stay at the 4* Amphoras Aqua Adults Only (all meals and drinks included) from only €396 per person (based on 2 people booking).</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Orlando for €456</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-orlando</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-orlando</guid>
+      <pubDate>Thu, 09 Jul 2026 15:04:54 +0000</pubDate>
+      <description>Fly from Amsterdam to Orlando for €456 (roundtrip with TAP Air in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Koeweit for €462</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-koeweit</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-koeweit</guid>
+      <pubDate>Thu, 09 Jul 2026 14:58:45 +0000</pubDate>
+      <description>Fly from Amsterdam to Koeweit for €462 (roundtrip with Kuwait Airways in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Curacao for €550</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-curacao</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-curacao</guid>
+      <pubDate>Thu, 09 Jul 2026 14:54:36 +0000</pubDate>
+      <description>Fly from Amsterdam to Curacao for €550 (roundtrip with TUI in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Spend autumn in the Caribbean with cheap non-stop flights from Amsterdam to Curaçao 🦩 from €537</title>
+      <link>https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-curacao-e537/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-curacao-e537/</guid>
+      <pubDate>Thu, 09 Jul 2026 13:15:01 +0000</pubDate>
+      <description>Imagine leaving behind grey skies and cold mornings — and landing on an island of turquoise bays, white-sand beaches, colourful Dutch-style houses, and warm Caribbean air.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Full-service flights from Amsterdam to many Chinese cities from €480</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-china-e480/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-china-e480/</guid>
+      <pubDate>Wed, 08 Jul 2026 12:00:40 +0000</pubDate>
+      <description>Xiamen Airlines are offering discounted flights from the Netherlands to China! Book tickets starting at only €480 for a round trip with checked bags included.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Full-service flights from Amsterdam to Taiwan for €557</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-taiwan-e557/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-taiwan-e557/</guid>
+      <pubDate>Sun, 05 Jul 2026 08:05:06 +0000</pubDate>
+      <description>Taiwan is a traveler’s paradise — safe, welcoming, and filled with vibrant experiences. Whether you’re chasing outdoor adventures, cultural immersion, or simply great food, this island has it all! Xiamen Airlines are offering discounted flights to Taipei from €557 for a round trip.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Cheap direct flights from Amsterdam to the island of Sal, Cape Verde 🏝️ for €201</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-cape-verde-e201/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-cape-verde-e201/</guid>
+      <pubDate>Sat, 04 Jul 2026 13:00:30 +0000</pubDate>
+      <description>Sun, sea, and adventure await — don’t miss this excellent deal! Easyjet is offering discounted flights to the island of Sal starting at only €201 for a round trip.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Lufthansa flights from Amsterdam to South Korea for €514</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-seoul-e514-2/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-seoul-e514-2/</guid>
+      <pubDate>Fri, 03 Jul 2026 09:00:09 +0000</pubDate>
+      <description>Whether you seek neon-lit energy in Seoul, peaceful temple retreats, or bustling night markets, South Korea delivers a blend of old and new that delights every traveler! Take advantage of these discounted Lufthansa flights to Seoul available from just €514 for a round trip.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Full-service flights from Amsterdam to Kuala Lumpur, Malaysia for €558</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-kuala-lumpur-e558/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-kuala-lumpur-e558/</guid>
+      <pubDate>Mon, 29 Jun 2026 19:00:56 +0000</pubDate>
+      <description>Experience the convenience of Air India flights to Malaysia from just €558 for a round trip. Whether it&#x27;s the enchanting local culture, tropical adventures, or fabulous cuisine you crave, Malaysia offers it all in a unique and unforgettable way.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Bali for €1857</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-bali</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-bali</guid>
+      <pubDate>Sun, 28 Jun 2026 15:29:06 +0000</pubDate>
+      <description>Fly from Amsterdam to Bali for €1857 (roundtrip with China Southern in business class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Funchal for €110</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-funchal</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-funchal</guid>
+      <pubDate>Sun, 28 Jun 2026 15:24:37 +0000</pubDate>
+      <description>Fly from Amsterdam to Funchal for €110 (roundtrip with easyJet in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Sal for €196</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-sal</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-sal</guid>
+      <pubDate>Sun, 28 Jun 2026 15:19:57 +0000</pubDate>
+      <description>Fly from Amsterdam to Sal for €196 (roundtrip with easyJet in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Holiday in exotic Curaçao 🐠 for €895 p.p: direct flights from Amsterdam + 7-night stay in well-rated bungalow</title>
+      <link>https://www.fly4free.com/flight-deals/europe/holiday-in-curacao-from-amsterdam-17/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/holiday-in-curacao-from-amsterdam-17/</guid>
+      <pubDate>Sat, 27 Jun 2026 08:00:48 +0000</pubDate>
+      <description>Escape to the Caribbean booking with this package deal that includes non-stop TUI flights from Amsterdam and a 7-night stay at well-rated bungalow for €895 per person (based on 2 people sharing).</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Cheap direct flights from Amsterdam to the island of Sal, Cape Verde 🏝️ for €243</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-cape-verde-e243/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-cape-verde-e243/</guid>
+      <pubDate>Fri, 26 Jun 2026 06:00:23 +0000</pubDate>
+      <description>Sun, sea, and adventure await — don’t miss this excellent deal! Easyjet is offering discounted flights to the island of Sal starting at only €243 for a round trip.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>PRICE DROP 💥 Full-service flights from Amsterdam to Indonesia &amp; the Philippines from €491</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-indonesia-and-the-philippines-e491/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-indonesia-and-the-philippines-e491/</guid>
+      <pubDate>Mon, 22 Jun 2026 12:17:06 +0000</pubDate>
+      <description>Dreaming of tropical beaches, island hopping, and unforgettable sunsets? This Saudia deal makes it possible with full-service flights to Manila and Jakarta starting from just €491 return. It’s an excellent opportunity for travelers looking to explore two of Southeast Asia’s most breathtaking destinations during one of the best times of the year.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>CHEAP 💥 Full-service flights from Amsterdam to the Philippines for €442</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-the-philippines-e442/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-the-philippines-e442/</guid>
+      <pubDate>Sun, 21 Jun 2026 07:00:38 +0000</pubDate>
+      <description>Dreaming of tropical beaches, island hopping, and unforgettable sunsets? This Air India deal makes it possible with full-service flights to Manila starting from just €442 return. It’s an excellent opportunity for travelers looking to explore one of Southeast Asia’s most breathtaking destinations during one of the best times of the year.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>All inclusive holiday in Boa Vista Island, Cape Verde 😎 for €862 p.p: direct flights from Amsterdam + 7-night stay in 5* RIU resort</title>
+      <link>https://www.fly4free.com/flight-deals/europe/all-inclusive-holiday-cape-verde-37/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/all-inclusive-holiday-cape-verde-37/</guid>
+      <pubDate>Sat, 20 Jun 2026 07:00:11 +0000</pubDate>
+      <description>Book this cheap all inclusive holiday package staying at the fantastic 5* RIU Karamboa in sunny Cape Verde including direct flights from Amsterdam, Netherlands from €862 (based on 2 pax reservation)!</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>HIGH SEASON 2027 ☀️ 🌴 Full-service flights from Amsterdam to Malaysia for €535</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-kuala-lumpur-e535-2/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-kuala-lumpur-e535-2/</guid>
+      <pubDate>Thu, 18 Jun 2026 08:00:31 +0000</pubDate>
+      <description>Experience the convenience of Saudia flights to Malaysia from just €535 for a round trip. Whether it&#x27;s the enchanting local culture, tropical adventures, or fabulous cuisine you crave, Malaysia offers it all in a unique and unforgettable way.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>SUMMER ☀️ Cheap direct flights from Amsterdam to the islands of Boa Vista and Sal, Cape Verde 🏝️ from €250</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-cape-verde-e250/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-cape-verde-e250/</guid>
+      <pubDate>Wed, 17 Jun 2026 06:00:45 +0000</pubDate>
+      <description>Sun, sea, and adventure await — don’t miss this excellent deal! TUI is offering discounted flights to Cape Verde starting at only €250 for a round trip.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Top stay in Amsterdam 🇳🇱 Stylish 4* Corendon Hotel with a swimming pool, for €81/double</title>
+      <link>https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-amsterdam-corendon/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-amsterdam-corendon/</guid>
+      <pubDate>Tue, 16 Jun 2026 13:00:59 +0000</pubDate>
+      <description>The indoor swimming pool, wellness area, and excellent transport connections make this hotel a particularly good choice for travelers who want both convenience and comfort during a stay in Amsterdam.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>PRICE DROP 💥 Cheap non-stop flights from Amsterdam to Toronto, Canada for €353</title>
+      <link>https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-toronto-e353/</link>
+      <guid isPermaLink="true">https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-toronto-e353/</guid>
+      <pubDate>Tue, 16 Jun 2026 10:00:52 +0000</pubDate>
+      <description>Craving maple syrup, majestic skylines, and a taste of Canadian charm? Now’s your chance! Snag cheap Air Transat flights for only €353 for a round trip.</description>
+      <category>Fly4Free Netherlands</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Seoul for €523</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-seoul</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-seoul</guid>
+      <pubDate>Mon, 15 Jun 2026 18:55:59 +0000</pubDate>
+      <description>Fly from Amsterdam to Seoul for €523 (roundtrip with Lufthansa in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Flights from Amsterdam to Cairo for €206</title>
+      <link>https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-cairo</link>
+      <guid isPermaLink="true">https://yelmair.com/goedkope-vliegtickets-vanaf-amsterdam-naar-cairo</guid>
+      <pubDate>Mon, 18 May 2026 09:33:52 +0000</pubDate>
+      <description>Fly from Amsterdam to Cairo for €206 (roundtrip with Transavia in economy class)</description>
+      <category>Yelmair</category>
+    </item>
+    <item>
+      <title>Magisch India! Rechtstreekse Vliegtickets voor €374 retour!</title>
+      <link>https://travelunlimited.be/vluchten/magisch-india-rechtstreekse-vliegtickets-voor-e374-retour/</link>
+      <guid isPermaLink="true">https://travelunlimited.be/vluchten/magisch-india-rechtstreekse-vliegtickets-voor-e374-retour/</guid>
+      <pubDate>Thu, 08 Jan 2026 22:09:49 +0000</pubDate>
+      <description>Ontdek het land van het hindoeïsme, de Taj Mahal en sprookjesachtige paleizen: India! Door een promotie bij de luchtvaartmaatschappij Indigo kan je nu goedkoop naar Mumbai vliegen! Je vliegt momenteel rechtstreeks voor maar €374 retour met vertrek vanuit Amsterdam! Vluchten Rechtstreekse vluchten: Amsterdam – Mumbai – €374 Amsterdam – Mumbai – €433 (Paasvakantie) Andere voorbeelddata Mumbai: 21 […] Het bericht Magisch India! Rechtstreekse Vliegtickets voor €374 retour! verscheen eerst op Travel Unlimited .</description>
+      <category>TravelUnlimited</category>
+    </item>
+    <item>
+      <title>Adembenemend Madagascar! Vliegtickets voor €567 retour!</title>
+      <link>https://travelunlimited.be/vluchten/adembenemend-madagascar-vliegtickets-voor-e567-retour/</link>
+      <guid isPermaLink="true">https://travelunlimited.be/vluchten/adembenemend-madagascar-vliegtickets-voor-e567-retour/</guid>
+      <pubDate>Sun, 04 Jan 2026 10:33:03 +0000</pubDate>
+      <description>Wow! Door een promotie bij de top luchtvaartmaatschappij Turkish Airlines zijn er momenteel goedkope vliegtickets beschikbaar naar het unieke eiland Madagascar! Madagaskar wordt ook wel het ‘rode eiland’ genoemd en is gekend voor zijn iconische boababbomen die je nergens ter wereld zo wijdverspreid kan vinden. Daarnaast vind je er ook befaamde maki’s, kameleons en andere unieke dieren. […] Het bericht Adembenemend Madagascar! Vliegtickets voor €567 retour! verscheen eerst op Travel Unlimited .</description>
+      <category>TravelUnlimited</category>
+    </item>
+    <item>
+      <title>De Paradijselijke Malediven! Vliegtickets voor €433 retour!</title>
+      <link>https://travelunlimited.be/vluchten/de-paradijselijke-malediven-vliegtickets-voor-e433-retour/</link>
+      <guid isPermaLink="true">https://travelunlimited.be/vluchten/de-paradijselijke-malediven-vliegtickets-voor-e433-retour/</guid>
+      <pubDate>Thu, 18 Dec 2025 10:55:09 +0000</pubDate>
+      <description>De Malediven is één van de mooiste eilandengroepen ter wereld! Hier vind je talloze kleine eilandjes met prachtige zandstranden, helderblauw water en kleurrijk koraalriffen. Door een promotie bij de luchtvaartmaatschappij Indigo zijn er momenteel goedkope vliegtickets beschikbaar naar de Malediven! Je vliegt nu voor maar €433 retour naar Male in de Malediven met vertrek vanuit Amsterdam! Vluchten Amsterdam […] Het bericht De Paradijselijke Malediven! Vliegtickets voor €433 retour! verscheen eerst op Travel Unlimited .</description>
+      <category>TravelUnlimited</category>
+    </item>
+    <item>
+      <title>Betoverend Sri Lanka! Vliegtickets voor €429 retour</title>
+      <link>https://travelunlimited.be/vluchten/betoverend-sri-lanka-vliegtickets-voor-e429-retour-2/</link>
+      <guid isPermaLink="true">https://travelunlimited.be/vluchten/betoverend-sri-lanka-vliegtickets-voor-e429-retour-2/</guid>
+      <pubDate>Sun, 07 Dec 2025 11:34:10 +0000</pubDate>
+      <description>Bezoek de magische tempels, maak een safari in het Yala Nationaal Park of beklim de reusachtige Lion Rock in het wondermooie Sri Lanka! Door een promotie bij de luchtvaartmaatschappij Indigo Airlines zijn er momenteel goedkope vliegtickets beschikbaar naar Sri Lanka. Je vliegt nu voor maar €429 retour van Amsterdam naar Colombo! Vluchten Amsterdam – Colombo – €429 Amsterdam – […] Het bericht Betoverend Sri Lanka! Vliegtickets voor €429 retour verscheen eerst op Travel Unlimited .</description>
+      <category>TravelUnlimited</category>
+    </item>
+  </channel>
+</rss>
